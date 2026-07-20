@@ -7,9 +7,9 @@ from langchain_core.messages import HumanMessage, SystemMessage
 # =====================================================================
 # 1. API KEY CONFIGURATION
 # =====================================================================
-os.environ["OPENAI_API_KEY"] = "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"
-OPENAI_API_KEY = "your-openai-key-placeholder"
-NEWS_API_KEY = "your-news-api-key-placeholder"
+os.environ["OPENAI_API_KEY"] = "openai-key-placeholder"
+OPENAI_API_KEY = "openai-key-placeholder"
+NEWS_API_KEY = "news-api-key-placeholder"
 # =====================================================================
 # 2. CORE FUNCTIONS
 # =====================================================================
